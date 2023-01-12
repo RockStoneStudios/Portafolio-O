@@ -7,6 +7,7 @@ import Gifos from '../assets/Gifos.png';
 import VideoGame from '../assets/VideoGame.png';
 import Veterinaria from '../assets/Veterinaria.png';
 import proyect from '../assets/proyectoR.png';
+import ONG from '../assets/ong.png';
 
 const Work = () => {
   return (
@@ -24,21 +25,21 @@ const Work = () => {
 
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${ONG})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Applicación
+                API Rest ONG
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://l.facebook.com/l.php?u=https%3A%2F%2Finfallible-bhaskara-02c1b7.netlify.app%2F%3Ffbclid%3DIwAR3qp8iv0HJMK-sgjxuEUbg62UloLIr9Qm_Z6UjvZHf3HQd5rpM8zowtssw&h=AT07zSz_n8z8L-ztdNE8zA3keCFgAOK_TfchuDP9I5Ta-hEu6gVgkqmntEKG0IImb50NfjWsv5a8csfXojshYLPdaaFTPy27oXCnBcQRt-UFloLsr4xAPAihfuzq-aasya0'>
+                <a href='https://editor.swagger.io'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/RockStoneStudios/GLX-Travel'>
+                <a href='https://github.com/RockStoneStudios/ONG_Alkemy.git'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
