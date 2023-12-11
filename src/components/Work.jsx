@@ -57,12 +57,12 @@ const Work = () => {
                 Full Stack Aplicacion
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://bebidas-three.vercel.app/?fbclid=IwAR2R1_iXFM1rvNcecJzYiNOps49hzed1h1HWTaRZb_ZO0rLhzZKh9WBepfQ'>
+                <a href='https://roppa.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/RockStoneStudios/Bebidas'>
+                <a href='https://github.com/RockStoneStudios/roppa.git'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
