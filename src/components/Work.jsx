@@ -8,6 +8,7 @@ import VideoGame from '../assets/VideoGame.png';
 import Veterinaria from '../assets/Veterinaria.png';
 import proyect from '../assets/proyectoR.png';
 import ONG from '../assets/ong.png';
+import teslo from '../assets/teslo.png';
 
 const Work = () => {
   return (
